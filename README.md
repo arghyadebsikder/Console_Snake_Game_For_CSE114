@@ -17,8 +17,11 @@ Everything happens in the terminal. No graphics libraries. No shortcuts. Just lo
 ## Level Choose Screen
 <img width="716" height="726" alt="image" src="https://github.com/user-attachments/assets/cccf3efe-0def-469d-8ebc-64bcdeef59fe" />
 
-## In-Game screen
+## In-Game Screen
 <img width="717" height="832" alt="image" src="https://github.com/user-attachments/assets/a4e2e295-9070-4ef5-83ec-21ceb2c52b1a" />
+
+## Pause Screen
+<img width="675" height="757" alt="image" src="https://github.com/user-attachments/assets/d2671a9f-c4c8-4518-bdd7-a5f4d1f9032e" />
 
 ## Game Over Screen
 <img width="715" height="725" alt="image" src="https://github.com/user-attachments/assets/3ba87477-ba44-4ad7-9efe-7391e98395e9" />
@@ -316,6 +319,34 @@ Snake Game                 Dificulty Hard
 #                                       #
 # # # # # # # # # # # # # # # # # # # # #
 Max Score: 160         Current Score: 160
+Press 'p' for pause and resume
+```
+
+## Pause Screen
+```text
+Snake Game                 Dificulty Hard
+# # # # # # # # # # # # # # # # # # # # #
+#                                       #
+#                                       #
+#                                       #
+#                                       #
+#                                       #
+#                                       #
+#              Game Paused              #
+#                                       #
+#                Resume                 #
+#                Restart                #
+#                                       #
+#                                       #
+#                                       #
+#                                       #
+#                                       #
+#                                       #
+#                                       #
+#                                       #
+#                                       #
+# # # # # # # # # # # # # # # # # # # # #
+Max Score: 160         Current Score:   0
 Press 'p' for pause and resume
 ```
 
