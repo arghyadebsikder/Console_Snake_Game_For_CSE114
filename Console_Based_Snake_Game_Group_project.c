@@ -415,6 +415,7 @@ void pauseScreen(){
 
         }
         setCursor(boundaryStartY, boundaryStartX);
+        title();
 
         for(int i = boundaryStartY; i <= boundaryEndY; i++){
             for(int j = boundaryStartX; j <= boundaryEndX; j++){
@@ -1003,5 +1004,6 @@ void setCursor(short x, short y){ //ChatGPT generated --------------------------
     
     COORD position = {x, y};
     SetConsoleCursorPosition(GetStdHandle(STD_OUTPUT_HANDLE), position);
+
 
 }
